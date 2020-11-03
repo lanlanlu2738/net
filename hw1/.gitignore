@@ -1,0 +1,14 @@
+*.o
+peda*
+.gdb_history
+webserver
+testcase/
+__MACOSX/
+testcase.zip
+log.txt
+nohup.out
+test.c
+test
+aaa
+input.c
+input.cgi
